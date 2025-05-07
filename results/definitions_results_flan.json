@@ -1,0 +1,662 @@
+[
+  {
+    "term": "machine learning",
+    "gold_definition": "Machine learning (ML) is a subfield of soft computing within computer science that evolved from the study of pattern recognition and computational learning theory in artificial intelligence.",
+    "generated_definition": "A computer program that learns to recognize and interpret text by analyzing its meaning and comparing it to previously known text .",
+    "prompt_version": "old",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.012626321979558137,
+    "rougeL": 0.16666666666666666,
+    "cosine": 0.3657163381576538
+  },
+  {
+    "term": "genetic algorithm",
+    "gold_definition": "In computer science and operations research, a genetic algorithm (GA) is a metaheuristic inspired by the process of natural selection that belongs to the larger class of evolutionary algorithms (EA).",
+    "generated_definition": "A method of generating a random set of values using a set of rules .",
+    "prompt_version": "old",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.0086318637998763,
+    "rougeL": 0.18181818181818182,
+    "cosine": 0.3039175570011139
+  },
+  {
+    "term": "classification",
+    "gold_definition": "A classification is a division or category in a system which divides things into groups or types.",
+    "generated_definition": "A grouping or category .",
+    "prompt_version": "old",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.012169083201265076,
+    "rougeL": 0.2857142857142857,
+    "cosine": 0.616767406463623
+  },
+  {
+    "term": "deep learning",
+    "gold_definition": "Deep learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the brain called artificial neural networks.",
+    "generated_definition": "The process of learning by observation and study .",
+    "prompt_version": "old",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.006873512931184348,
+    "rougeL": 0.25,
+    "cosine": 0.17967328429222107
+  },
+  {
+    "term": "data mining",
+    "gold_definition": "Data mining is an interdisciplinary subfield of computer science and statistics with an overall goal to extract information (with intelligent methods) from a data set and transform the information into a comprehensible structure for further use.",
+    "generated_definition": "The process of analyzing large amounts of data in order to make predictions .",
+    "prompt_version": "old",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.0048080652010782455,
+    "rougeL": 0.0816326530612245,
+    "cosine": 0.4874638020992279
+  },
+  {
+    "term": "cloud computing",
+    "gold_definition": "Cloud computing is a general term for anything that involves delivering hosted services over the internet.",
+    "generated_definition": "Cloud computing refers to the use of computing infrastructure in the form of software that can be accessed from any location and stored on any storage medium .",
+    "prompt_version": "old",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.025927732347438295,
+    "rougeL": 0.13953488372093023,
+    "cosine": 0.8540611863136292
+  },
+  {
+    "term": "support vector machine",
+    "gold_definition": "A support vector machine (SVM) is a supervised machine learning model that uses classification algorithms for two-group classification problems.",
+    "generated_definition": "A machine learning algorithm that uses support vector machines .",
+    "prompt_version": "old",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.04168045980331274,
+    "rougeL": 0.3448275862068966,
+    "cosine": 0.7379286289215088
+  },
+  {
+    "term": "clustering",
+    "gold_definition": "Clustering is the task of grouping a set of objects in such a way that objects in the same group (called a cluster) are more similar (in some sense) to each other than to those in other groups (clusters).",
+    "generated_definition": "Clustering of related items .",
+    "prompt_version": "old",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 6.0463444467268424e-05,
+    "rougeL": 0.09302325581395347,
+    "cosine": 0.5588791370391846
+  },
+  {
+    "term": "model check",
+    "gold_definition": "In computer science, model checking or property checking is a method for checking whether a finite-state model of a system meets a given specification (also known as correctness).",
+    "generated_definition": "A method of checking the accuracy of a computer model .",
+    "prompt_version": "old",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.014565712814645991,
+    "rougeL": 0.25641025641025644,
+    "cosine": 0.7202931642532349
+  },
+  {
+    "term": "security",
+    "gold_definition": "Computer security, cybersecurity or information technology security (IT security) is the protection of computer systems and networks from information disclosure, theft of or damage to their hardware, software, or electronic data, as well as from the disruption or misdirection of the services they provide.",
+    "generated_definition": "A system for securing data .",
+    "prompt_version": "old",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0,
+    "rougeL": 0.0816326530612245,
+    "cosine": 0.531749963760376
+  },
+  {
+    "term": "optimization",
+    "gold_definition": "Mathematical optimization (alternatively spelled optimisation) or mathematical programming is the selection of a best element, with regard to some criterion, from some set of available alternatives.",
+    "generated_definition": "The process of reducing costs by maximizing efficiency .",
+    "prompt_version": "old",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.0038918300883750323,
+    "rougeL": 0.11764705882352941,
+    "cosine": 0.37593182921409607
+  },
+  {
+    "term": "feature selection",
+    "gold_definition": "In machine learning and statistics, feature selection, also known as variable selection, attribute selection or variable subset selection, is the process of selecting a subset of relevant features (variables, predictors) for use in model construction.",
+    "generated_definition": "A feature of a computer program that determines the order in which other features are displayed .",
+    "prompt_version": "old",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.008108425092906622,
+    "rougeL": 0.1568627450980392,
+    "cosine": 0.369415819644928
+  },
+  {
+    "term": "neural network",
+    "gold_definition": "A neural network is a network or circuit of neurons, or in a modern sense, an artificial neural network, composed of artificial neurons or nodes.",
+    "generated_definition": "A computerized model of the brain based on the interaction of neurons , used to train a machine to perform tasks such as speech recognition or classification .",
+    "prompt_version": "old",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.015415416519493554,
+    "rougeL": 0.19607843137254902,
+    "cosine": 0.5041906237602234
+  },
+  {
+    "term": "multiagent system",
+    "gold_definition": "A multiagent system (MAS) is a paradigm in the computer sciences and related areas where a system of interest is conceived as a set of autonomous entities called agents, as well as its interaction mechanisms.",
+    "generated_definition": "A computer system that uses multiple agents to perform a task .",
+    "prompt_version": "old",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.004169876500665518,
+    "rougeL": 0.17391304347826086,
+    "cosine": 0.6744000911712646
+  },
+  {
+    "term": "simulation",
+    "gold_definition": "A computer simulation (or \"sim\") is an attempt to model a real-life or hypothetical situation on a computer so that it can be studied to see how the system works.",
+    "generated_definition": "A computer program used to simulate a real situation .",
+    "prompt_version": "old",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.009691617123716866,
+    "rougeL": 0.30000000000000004,
+    "cosine": 0.6999094486236572
+  },
+  {
+    "term": "neural networks",
+    "gold_definition": "Artificial neural networks (ANNs), usually simply called neural networks (NNs), are computing systems vaguely inspired by the biological neural networks that constitute animal brains.",
+    "generated_definition": "A computerized system for generating artificial intelligence models .",
+    "prompt_version": "old",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0,
+    "rougeL": 0.0625,
+    "cosine": 0.3789723217487335
+  },
+  {
+    "term": "artificial intelligence",
+    "gold_definition": "Artificial intelligence (AI) is intelligence demonstrated by machines, unlike the natural intelligence displayed by humans and animals, which involves consciousness and emotionality.",
+    "generated_definition": "Artificial intelligence , the study of machine learning and artificial intelligence .",
+    "prompt_version": "old",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.02609299090530571,
+    "rougeL": 0.25000000000000006,
+    "cosine": 0.6223498582839966
+  },
+  {
+    "term": "ontology",
+    "gold_definition": "An ontology is a kind of dictionary that describes information in a certain domain using concepts and relationships.In computer science and information science, an ontology encompasses a representation, formal naming and definition of the categories, properties and relations between the concepts, data and entities that substantiate one, many, or all domains of discourse.",
+    "generated_definition": "The set of concepts and terms used in a given field or science .",
+    "prompt_version": "old",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.004140161191638078,
+    "rougeL": 0.17910447761194032,
+    "cosine": 0.47719019651412964
+  },
+  {
+    "term": "wireless sensor network",
+    "gold_definition": "Wireless sensor network (WSN) refers to a group of spatially dispersed and dedicated sensors for monitoring and recording the physical conditions of the environment and organizing the collected data at a central location.",
+    "generated_definition": "A network of wireless sensors .",
+    "prompt_version": "old",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.0005496254123229429,
+    "rougeL": 0.15789473684210525,
+    "cosine": 0.7747584581375122
+  },
+  {
+    "term": "logic program",
+    "gold_definition": "Logic programming is a programming paradigm which is largely based on formal logic.",
+    "generated_definition": "A computer program that performs mathematical calculations .",
+    "prompt_version": "old",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0,
+    "rougeL": 0.2,
+    "cosine": 0.32668590545654297
+  },
+  {
+    "term": "virtual reality",
+    "gold_definition": "Virtual reality (VR) refers to a computer-generated simulation in which a person can interact within an artificial three-dimensional environment using electronic devices, such as special goggles with a screen or gloves fitted with sensors.",
+    "generated_definition": "A form of entertainment that involves the use of a virtual environment .",
+    "prompt_version": "old",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.004427026817176499,
+    "rougeL": 0.125,
+    "cosine": 0.6074106693267822
+  },
+  {
+    "term": "particle swarm optimization",
+    "gold_definition": "In computational science, particle swarm optimization (PSO) is a computational method that optimizes a problem by iteratively trying to improve a candidate solution with regard to a given measure of quality.",
+    "generated_definition": "A method of solving a mathematical problem using a swarm of particles .",
+    "prompt_version": "old",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.007338617800306895,
+    "rougeL": 0.27906976744186046,
+    "cosine": 0.553807258605957
+  },
+  {
+    "term": "machine learning",
+    "gold_definition": "Machine learning (ML) is a subfield of soft computing within computer science that evolved from the study of pattern recognition and computational learning theory in artificial intelligence.",
+    "generated_definition": "A method of learning by supervised learning .",
+    "prompt_version": "update1",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.0035009921646890194,
+    "rougeL": 0.17647058823529413,
+    "cosine": 0.41765856742858887
+  },
+  {
+    "term": "genetic algorithm",
+    "gold_definition": "In computer science and operations research, a genetic algorithm (GA) is a metaheuristic inspired by the process of natural selection that belongs to the larger class of evolutionary algorithms (EA).",
+    "generated_definition": "A method of generating a set of determinants by combining a set of known determinants with known known combinations of known determinants .",
+    "prompt_version": "update1",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.012798909671944731,
+    "rougeL": 0.1923076923076923,
+    "cosine": 0.1259661316871643
+  },
+  {
+    "term": "classification",
+    "gold_definition": "A classification is a division or category in a system which divides things into groups or types.",
+    "generated_definition": "A set of terms used to describe or describe a particular subject or activity .",
+    "prompt_version": "update1",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.020534925428854982,
+    "rougeL": 0.2580645161290323,
+    "cosine": 0.40789690613746643
+  },
+  {
+    "term": "deep learning",
+    "gold_definition": "Deep learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the brain called artificial neural networks.",
+    "generated_definition": "The process of learning by acquiring knowledge over a long period of time .",
+    "prompt_version": "update1",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.012873153530803974,
+    "rougeL": 0.21621621621621623,
+    "cosine": 0.24073800444602966
+  },
+  {
+    "term": "data mining",
+    "gold_definition": "Data mining is an interdisciplinary subfield of computer science and statistics with an overall goal to extract information (with intelligent methods) from a data set and transform the information into a comprehensible structure for further use.",
+    "generated_definition": "The process of extracting valuable information from large amounts of data .",
+    "prompt_version": "update1",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.0038364715841313762,
+    "rougeL": 0.21276595744680854,
+    "cosine": 0.5044641494750977
+  },
+  {
+    "term": "cloud computing",
+    "gold_definition": "Cloud computing is a general term for anything that involves delivering hosted services over the internet.",
+    "generated_definition": "Cloud computing refers to the use of computing infrastructure in the form of software that can be accessed from any location and stored on any storage medium .",
+    "prompt_version": "update1",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.025927732347438295,
+    "rougeL": 0.13953488372093023,
+    "cosine": 0.8540611863136292
+  },
+  {
+    "term": "support vector machine",
+    "gold_definition": "A support vector machine (SVM) is a supervised machine learning model that uses classification algorithms for two-group classification problems.",
+    "generated_definition": "A machine learning algorithm that uses support vector machines .",
+    "prompt_version": "update1",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.04168045980331274,
+    "rougeL": 0.3448275862068966,
+    "cosine": 0.7379286289215088
+  },
+  {
+    "term": "clustering",
+    "gold_definition": "Clustering is the task of grouping a set of objects in such a way that objects in the same group (called a cluster) are more similar (in some sense) to each other than to those in other groups (clusters).",
+    "generated_definition": "Clustering of related items in a database .",
+    "prompt_version": "update1",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.0008394292537212657,
+    "rougeL": 0.17391304347826086,
+    "cosine": 0.5258582830429077
+  },
+  {
+    "term": "model check",
+    "gold_definition": "In computer science, model checking or property checking is a method for checking whether a finite-state model of a system meets a given specification (also known as correctness).",
+    "generated_definition": "A method of checking the accuracy of a mathematical model .",
+    "prompt_version": "update1",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.01391670532207229,
+    "rougeL": 0.25641025641025644,
+    "cosine": 0.6932638883590698
+  },
+  {
+    "term": "security",
+    "gold_definition": "Computer security, cybersecurity or information technology security (IT security) is the protection of computer systems and networks from information disclosure, theft of or damage to their hardware, software, or electronic data, as well as from the disruption or misdirection of the services they provide.",
+    "generated_definition": "A system for securing data , especially in the form of passwords .",
+    "prompt_version": "update1",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.002051348623844572,
+    "rougeL": 0.14545454545454545,
+    "cosine": 0.5055698156356812
+  },
+  {
+    "term": "optimization",
+    "gold_definition": "Mathematical optimization (alternatively spelled optimisation) or mathematical programming is the selection of a best element, with regard to some criterion, from some set of available alternatives.",
+    "generated_definition": "The process of reducing the size of a computer program by reducing the number of operations required to perform those operations .",
+    "prompt_version": "update1",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.028475310012787133,
+    "rougeL": 0.1702127659574468,
+    "cosine": 0.3613780736923218
+  },
+  {
+    "term": "feature selection",
+    "gold_definition": "In machine learning and statistics, feature selection, also known as variable selection, attribute selection or variable subset selection, is the process of selecting a subset of relevant features (variables, predictors) for use in model construction.",
+    "generated_definition": "The process of selecting a feature in a computer program .",
+    "prompt_version": "update1",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.02929832099850673,
+    "rougeL": 0.3111111111111111,
+    "cosine": 0.5944538116455078
+  },
+  {
+    "term": "neural network",
+    "gold_definition": "A neural network is a network or circuit of neurons, or in a modern sense, an artificial neural network, composed of artificial neurons or nodes.",
+    "generated_definition": "A computer model that incorporates a number of neural networks .",
+    "prompt_version": "update1",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.008554515800838434,
+    "rougeL": 0.28571428571428575,
+    "cosine": 0.5813642144203186
+  },
+  {
+    "term": "multiagent system",
+    "gold_definition": "A multiagent system (MAS) is a paradigm in the computer sciences and related areas where a system of interest is conceived as a set of autonomous entities called agents, as well as its interaction mechanisms.",
+    "generated_definition": "A computer system that uses multiple agents to perform a task .",
+    "prompt_version": "update1",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.004169876500665518,
+    "rougeL": 0.17391304347826086,
+    "cosine": 0.6744000911712646
+  },
+  {
+    "term": "simulation",
+    "gold_definition": "A computer simulation (or \"sim\") is an attempt to model a real-life or hypothetical situation on a computer so that it can be studied to see how the system works.",
+    "generated_definition": "A computer program that simulates the behavior of another program .",
+    "prompt_version": "update1",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.01097352847902736,
+    "rougeL": 0.1951219512195122,
+    "cosine": 0.6257767081260681
+  },
+  {
+    "term": "neural networks",
+    "gold_definition": "Artificial neural networks (ANNs), usually simply called neural networks (NNs), are computing systems vaguely inspired by the biological neural networks that constitute animal brains.",
+    "generated_definition": "A computerized system for training a machine to perform tasks such as classification or regression , based on the learning of a set of inputs from a set of inputs and the training of a set of outputs from a set of outputs .",
+    "prompt_version": "update1",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.0067525623389387635,
+    "rougeL": 0.060606060606060615,
+    "cosine": 0.3124903440475464
+  },
+  {
+    "term": "artificial intelligence",
+    "gold_definition": "Artificial intelligence (AI) is intelligence demonstrated by machines, unlike the natural intelligence displayed by humans and animals, which involves consciousness and emotionality.",
+    "generated_definition": "Artificial intelligence , the study of machine learning and artificial intelligence .",
+    "prompt_version": "update1",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.02609299090530571,
+    "rougeL": 0.25000000000000006,
+    "cosine": 0.6223498582839966
+  },
+  {
+    "term": "ontology",
+    "gold_definition": "An ontology is a kind of dictionary that describes information in a certain domain using concepts and relationships.In computer science and information science, an ontology encompasses a representation, formal naming and definition of the categories, properties and relations between the concepts, data and entities that substantiate one, many, or all domains of discourse.",
+    "generated_definition": "The set of terms used in a particular field or discipline .",
+    "prompt_version": "update1",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.0018636697156940605,
+    "rougeL": 0.15384615384615383,
+    "cosine": 0.3722881078720093
+  },
+  {
+    "term": "wireless sensor network",
+    "gold_definition": "Wireless sensor network (WSN) refers to a group of spatially dispersed and dedicated sensors for monitoring and recording the physical conditions of the environment and organizing the collected data at a central location.",
+    "generated_definition": "A network of wireless sensors .",
+    "prompt_version": "update1",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.0005496254123229429,
+    "rougeL": 0.15789473684210525,
+    "cosine": 0.7747584581375122
+  },
+  {
+    "term": "logic program",
+    "gold_definition": "Logic programming is a programming paradigm which is largely based on formal logic.",
+    "generated_definition": "A computer program that performs mathematical operations .",
+    "prompt_version": "update1",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0,
+    "rougeL": 0.2,
+    "cosine": 0.3630008399486542
+  },
+  {
+    "term": "virtual reality",
+    "gold_definition": "Virtual reality (VR) refers to a computer-generated simulation in which a person can interact within an artificial three-dimensional environment using electronic devices, such as special goggles with a screen or gloves fitted with sensors.",
+    "generated_definition": "A virtual world or environment .",
+    "prompt_version": "update1",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.0004203989048568031,
+    "rougeL": 0.09756097560975609,
+    "cosine": 0.5195974707603455
+  },
+  {
+    "term": "particle swarm optimization",
+    "gold_definition": "In computational science, particle swarm optimization (PSO) is a computational method that optimizes a problem by iteratively trying to improve a candidate solution with regard to a given measure of quality.",
+    "generated_definition": "A method of solving a problem using a swarm of particles .",
+    "prompt_version": "update1",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.012900255530951267,
+    "rougeL": 0.2857142857142857,
+    "cosine": 0.585102915763855
+  },
+  {
+    "term": "machine learning",
+    "gold_definition": "Machine learning (ML) is a subfield of soft computing within computer science that evolved from the study of pattern recognition and computational learning theory in artificial intelligence.",
+    "generated_definition": "A computer program that learns to recognize and classify objects based on their similarities in shape and color , or on the data it is presented with .",
+    "prompt_version": "update2",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.015415416519493554,
+    "rougeL": 0.18867924528301885,
+    "cosine": 0.4192964732646942
+  },
+  {
+    "term": "genetic algorithm",
+    "gold_definition": "In computer science and operations research, a genetic algorithm (GA) is a metaheuristic inspired by the process of natural selection that belongs to the larger class of evolutionary algorithms (EA).",
+    "generated_definition": "A method of generating a random set of elements based on the properties of a set of input data .",
+    "prompt_version": "update2",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.011825615556376443,
+    "rougeL": 0.2040816326530612,
+    "cosine": 0.26891642808914185
+  },
+  {
+    "term": "classification",
+    "gold_definition": "A classification is a division or category in a system which divides things into groups or types.",
+    "generated_definition": "A group of related things , such as people or animals , that are grouped together based on similarity in nature or function .",
+    "prompt_version": "update2",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.016747333848710643,
+    "rougeL": 0.21052631578947367,
+    "cosine": 0.49826958775520325
+  },
+  {
+    "term": "deep learning",
+    "gold_definition": "Deep learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the brain called artificial neural networks.",
+    "generated_definition": "The process of learning by acquiring knowledge over a long period of time .",
+    "prompt_version": "update2",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.012873153530803974,
+    "rougeL": 0.21621621621621623,
+    "cosine": 0.24073800444602966
+  },
+  {
+    "term": "data mining",
+    "gold_definition": "Data mining is an interdisciplinary subfield of computer science and statistics with an overall goal to extract information (with intelligent methods) from a data set and transform the information into a comprehensible structure for further use.",
+    "generated_definition": "The process of extracting valuable information from large amounts of data .",
+    "prompt_version": "update2",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.0038364715841313762,
+    "rougeL": 0.21276595744680854,
+    "cosine": 0.5044641494750977
+  },
+  {
+    "term": "cloud computing",
+    "gold_definition": "Cloud computing is a general term for anything that involves delivering hosted services over the internet.",
+    "generated_definition": "A type of computing that uses a combination of on-premises hardware and software to store and process data in the cloud .",
+    "prompt_version": "update2",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.01703000735087828,
+    "rougeL": 0.15789473684210525,
+    "cosine": 0.7067852020263672
+  },
+  {
+    "term": "support vector machine",
+    "gold_definition": "A support vector machine (SVM) is a supervised machine learning model that uses classification algorithms for two-group classification problems.",
+    "generated_definition": "A machine learning algorithm that uses support vector machines .",
+    "prompt_version": "update2",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.04168045980331274,
+    "rougeL": 0.3448275862068966,
+    "cosine": 0.7379286289215088
+  },
+  {
+    "term": "clustering",
+    "gold_definition": "Clustering is the task of grouping a set of objects in such a way that objects in the same group (called a cluster) are more similar (in some sense) to each other than to those in other groups (clusters).",
+    "generated_definition": "Clustering of related items in a database .",
+    "prompt_version": "update2",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.0008394292537212657,
+    "rougeL": 0.17391304347826086,
+    "cosine": 0.5258582830429077
+  },
+  {
+    "term": "model check",
+    "gold_definition": "In computer science, model checking or property checking is a method for checking whether a finite-state model of a system meets a given specification (also known as correctness).",
+    "generated_definition": "A method of checking the accuracy of a mathematical model .",
+    "prompt_version": "update2",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.01391670532207229,
+    "rougeL": 0.25641025641025644,
+    "cosine": 0.6932638883590698
+  },
+  {
+    "term": "security",
+    "gold_definition": "Computer security, cybersecurity or information technology security (IT security) is the protection of computer systems and networks from information disclosure, theft of or damage to their hardware, software, or electronic data, as well as from the disruption or misdirection of the services they provide.",
+    "generated_definition": "Information security",
+    "prompt_version": "update2",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 5.121592020345034e-11,
+    "rougeL": 0.08695652173913045,
+    "cosine": 0.735723078250885
+  },
+  {
+    "term": "optimization",
+    "gold_definition": "Mathematical optimization (alternatively spelled optimisation) or mathematical programming is the selection of a best element, with regard to some criterion, from some set of available alternatives.",
+    "generated_definition": "The process of reducing the size of a computer program by reducing the number of operations required to perform those operations .",
+    "prompt_version": "update2",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.028475310012787133,
+    "rougeL": 0.1702127659574468,
+    "cosine": 0.3613780736923218
+  },
+  {
+    "term": "feature selection",
+    "gold_definition": "In machine learning and statistics, feature selection, also known as variable selection, attribute selection or variable subset selection, is the process of selecting a subset of relevant features (variables, predictors) for use in model construction.",
+    "generated_definition": "A feature of a computer program that determines which of its components is to be used in a particular task .",
+    "prompt_version": "update2",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.010059032155553831,
+    "rougeL": 0.21818181818181817,
+    "cosine": 0.43005067110061646
+  },
+  {
+    "term": "neural network",
+    "gold_definition": "A neural network is a network or circuit of neurons, or in a modern sense, an artificial neural network, composed of artificial neurons or nodes.",
+    "generated_definition": "A computerized system for generating artificial intelligence models .",
+    "prompt_version": "update2",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.0051720928489749785,
+    "rougeL": 0.12121212121212122,
+    "cosine": 0.24115222692489624
+  },
+  {
+    "term": "multiagent system",
+    "gold_definition": "A multiagent system (MAS) is a paradigm in the computer sciences and related areas where a system of interest is conceived as a set of autonomous entities called agents, as well as its interaction mechanisms.",
+    "generated_definition": "A computer system that has multiple agents .",
+    "prompt_version": "update2",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.0012879430410913946,
+    "rougeL": 0.19047619047619044,
+    "cosine": 0.6552073955535889
+  },
+  {
+    "term": "simulation",
+    "gold_definition": "A computer simulation (or \"sim\") is an attempt to model a real-life or hypothetical situation on a computer so that it can be studied to see how the system works.",
+    "generated_definition": "A computer program that simulates the behavior of another program .",
+    "prompt_version": "update2",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.01097352847902736,
+    "rougeL": 0.1951219512195122,
+    "cosine": 0.6257767081260681
+  },
+  {
+    "term": "neural networks",
+    "gold_definition": "Artificial neural networks (ANNs), usually simply called neural networks (NNs), are computing systems vaguely inspired by the biological neural networks that constitute animal brains.",
+    "generated_definition": "A computerized system for generating artificial intelligence models based on the training of a set of trained neurons .",
+    "prompt_version": "update2",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.01046026405813499,
+    "rougeL": 0.09523809523809525,
+    "cosine": 0.5254808068275452
+  },
+  {
+    "term": "artificial intelligence",
+    "gold_definition": "Artificial intelligence (AI) is intelligence demonstrated by machines, unlike the natural intelligence displayed by humans and animals, which involves consciousness and emotionality.",
+    "generated_definition": "Artificial intelligence , the use of machine learning to create intelligent systems .",
+    "prompt_version": "update2",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.024505720775099514,
+    "rougeL": 0.24242424242424246,
+    "cosine": 0.5719130039215088
+  },
+  {
+    "term": "ontology",
+    "gold_definition": "An ontology is a kind of dictionary that describes information in a certain domain using concepts and relationships.In computer science and information science, an ontology encompasses a representation, formal naming and definition of the categories, properties and relations between the concepts, data and entities that substantiate one, many, or all domains of discourse.",
+    "generated_definition": "The set of terms used in a particular field or discipline .",
+    "prompt_version": "update2",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.0018636697156940605,
+    "rougeL": 0.15384615384615383,
+    "cosine": 0.3722881078720093
+  },
+  {
+    "term": "wireless sensor network",
+    "gold_definition": "Wireless sensor network (WSN) refers to a group of spatially dispersed and dedicated sensors for monitoring and recording the physical conditions of the environment and organizing the collected data at a central location.",
+    "generated_definition": "A network of wireless sensors .",
+    "prompt_version": "update2",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.0005496254123229429,
+    "rougeL": 0.15789473684210525,
+    "cosine": 0.7747584581375122
+  },
+  {
+    "term": "logic program",
+    "gold_definition": "Logic programming is a programming paradigm which is largely based on formal logic.",
+    "generated_definition": "A computer program that performs mathematical calculations .",
+    "prompt_version": "update2",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0,
+    "rougeL": 0.2,
+    "cosine": 0.32668590545654297
+  },
+  {
+    "term": "virtual reality",
+    "gold_definition": "Virtual reality (VR) refers to a computer-generated simulation in which a person can interact within an artificial three-dimensional environment using electronic devices, such as special goggles with a screen or gloves fitted with sensors.",
+    "generated_definition": "A virtual world or environment , especially one created by a computer or other electronic device .",
+    "prompt_version": "update2",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.007770705113219866,
+    "rougeL": 0.19607843137254902,
+    "cosine": 0.6514206528663635
+  },
+  {
+    "term": "particle swarm optimization",
+    "gold_definition": "In computational science, particle swarm optimization (PSO) is a computational method that optimizes a problem by iteratively trying to improve a candidate solution with regard to a given measure of quality.",
+    "generated_definition": "A method of solving a problem using a swarm of particles .",
+    "prompt_version": "update2",
+    "model_name": "ltg/flan-t5-definition-en-large",
+    "bleu": 0.012900255530951267,
+    "rougeL": 0.2857142857142857,
+    "cosine": 0.585102915763855
+  }
+]

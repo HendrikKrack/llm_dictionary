@@ -1,0 +1,662 @@
+[
+  {
+    "term": "machine learning",
+    "gold_definition": "Machine learning (ML) is a subfield of soft computing within computer science that evolved from the study of pattern recognition and computational learning theory in artificial intelligence.",
+    "generated_definition": "Machine learning is a subset of artificial intelligence (AI) that involves the development of algorithms and statistical models that enable computers to perform tasks without explicit instructions. It relies on patterns and inference drawn from data, allowing systems to learn and improve from experience automatically. Machine learning can be categorized into several types, including supervised learning, unsupervised learning, semi-supervised learning, and reinforcement learning, each serving different purposes based on the nature of the task and the type of data available.",
+    "prompt_version": "old",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.01569665874144186,
+    "rougeL": 0.2037037037037037,
+    "cosine": 0.710371196269989
+  },
+  {
+    "term": "genetic algorithm",
+    "gold_definition": "In computer science and operations research, a genetic algorithm (GA) is a metaheuristic inspired by the process of natural selection that belongs to the larger class of evolutionary algorithms (EA).",
+    "generated_definition": "A genetic algorithm is a search heuristic inspired by Charles Darwin’s theory of natural evolution. This algorithm reflects the process of natural selection where the fittest individuals are selected for reproduction in order to produce offspring of the next generation. In a genetic algorithm, a population of candidate solutions (often represented as strings of numbers or characters) to an optimization problem is evolved toward better solutions. The process involves selection, crossover (recombination), and mutation to evolve the solutions over generations. Genetic algorithms are commonly used for solving optimization and search problems in various fields, including artificial intelligence, engineering, and computer science.",
+    "prompt_version": "old",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.055233561603654106,
+    "rougeL": 0.2424242424242424,
+    "cosine": 0.7544314861297607
+  },
+  {
+    "term": "classification",
+    "gold_definition": "A classification is a division or category in a system which divides things into groups or types.",
+    "generated_definition": "In the context of the company, \"classification\" typically refers to the process of categorizing data or information into predefined classes or groups. This can involve sorting information based on certain attributes or criteria to aid in organization, analysis, or decision-making. The specific definition can vary depending on the department or product in question, as it might relate to sorting customer data, products, or other relevant business information. If there are specific nuances or proprietary methods used for classification within the company, they should be noted as they may differ from general industry standards.",
+    "prompt_version": "old",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.005368362627833261,
+    "rougeL": 0.09009009009009009,
+    "cosine": 0.7913671731948853
+  },
+  {
+    "term": "deep learning",
+    "gold_definition": "Deep learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the brain called artificial neural networks.",
+    "generated_definition": "Deep learning is a subset of machine learning that involves neural networks with many layers. It is designed to mimic the human brain's functions in processing data and creating patterns for use in decision making. Deep learning algorithms are particularly effective in recognizing patterns and features in large amounts of unstructured data such as images, audio, and text. These algorithms learn from massive datasets by adjusting their parameters, leading to improvements in tasks such as image and speech recognition, natural language processing, and autonomous systems.",
+    "prompt_version": "old",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.04559395692040092,
+    "rougeL": 0.2,
+    "cosine": 0.8014621734619141
+  },
+  {
+    "term": "data mining",
+    "gold_definition": "Data mining is an interdisciplinary subfield of computer science and statistics with an overall goal to extract information (with intelligent methods) from a data set and transform the information into a comprehensible structure for further use.",
+    "generated_definition": "Data mining is the process of discovering patterns, correlations, and anomalies within large sets of data to predict outcomes or derive valuable insights. It involves using statistics, machine learning, and database systems to analyze and extract useful information from data sets. This process helps organizations make informed decisions by transforming raw data into meaningful information. Common techniques in data mining include clustering, classification, regression, and association rule learning.",
+    "prompt_version": "old",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.02737149578371509,
+    "rougeL": 0.2692307692307692,
+    "cosine": 0.8591099977493286
+  },
+  {
+    "term": "cloud computing",
+    "gold_definition": "Cloud computing is a general term for anything that involves delivering hosted services over the internet.",
+    "generated_definition": "Cloud computing refers to the delivery of computing services over the internet, allowing users to access and store data and applications on remote servers rather than on local servers or personal computers. This technology enables scalable resources, flexible computing power, and often cost savings, as users can pay for only the services they need. The key characteristics include on-demand self-service, broad network access, resource pooling, rapid elasticity, and measured service.",
+    "prompt_version": "old",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.024279749336999223,
+    "rougeL": 0.13636363636363638,
+    "cosine": 0.8578411340713501
+  },
+  {
+    "term": "support vector machine",
+    "gold_definition": "A support vector machine (SVM) is a supervised machine learning model that uses classification algorithms for two-group classification problems.",
+    "generated_definition": "A Support Vector Machine (SVM) is a supervised machine learning model used for classification and regression tasks. It works by finding the hyperplane that best separates the data into different classes in a high-dimensional space. The hyperplane is chosen to maximize the margin, or distance, between itself and the nearest data points from each class, known as support vectors. SVMs are particularly effective in high-dimensional spaces and are used in various applications, including image recognition, bioinformatics, and text classification.",
+    "prompt_version": "old",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.07949395784326588,
+    "rougeL": 0.2772277227722772,
+    "cosine": 0.8462038040161133
+  },
+  {
+    "term": "clustering",
+    "gold_definition": "Clustering is the task of grouping a set of objects in such a way that objects in the same group (called a cluster) are more similar (in some sense) to each other than to those in other groups (clusters).",
+    "generated_definition": "In a general context, \"clustering\" refers to the process of grouping a set of objects into clusters, where objects in the same cluster are more similar to each other than to those in other clusters. This is often used in data analysis and machine learning to identify and categorize data points based on specific characteristics.\n\nHowever, if the term \"clustering\" is used in a company-specific context, it could have a specialized meaning or application unique to that organization. If there is any specific documentation, process, or technology mentioned within your company's materials that relate to \"clustering,\" that would help provide a more tailored definition. For example, it",
+    "prompt_version": "old",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.14430173953957806,
+    "rougeL": 0.33783783783783783,
+    "cosine": 0.8708723783493042
+  },
+  {
+    "term": "model check",
+    "gold_definition": "In computer science, model checking or property checking is a method for checking whether a finite-state model of a system meets a given specification (also known as correctness).",
+    "generated_definition": "In the context of your company, \"model check\" refers to the process of verifying the accuracy and reliability of a computational or mathematical model used within your projects. This involves running various tests and validations to ensure that the model behaves as expected under different scenarios and conditions. The goal of model checking is to identify and correct any errors or discrepancies in the model before it is used for decision-making or further analysis. This term may be specific to your company's methodology for quality assurance in model development.",
+    "prompt_version": "old",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.015069798006587067,
+    "rougeL": 0.13333333333333333,
+    "cosine": 0.8304951786994934
+  },
+  {
+    "term": "security",
+    "gold_definition": "Computer security, cybersecurity or information technology security (IT security) is the protection of computer systems and networks from information disclosure, theft of or damage to their hardware, software, or electronic data, as well as from the disruption or misdirection of the services they provide.",
+    "generated_definition": "In the context of general knowledge, \"security\" typically refers to measures taken to protect against unauthorized access, harm, or damage. This can encompass a variety of fields including cybersecurity, physical security, and financial security, among others.\n\nHowever, to provide a company-specific definition, I would need more context from your documents to identify any unique terms or concepts related to \"security\" that are specific to your organization. If your company has specific protocols, technologies, or departments focused on security that differ from the general understanding, those details would be included here. Please provide any relevant documents or context for a more tailored definition.",
+    "prompt_version": "old",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.011007530996153926,
+    "rougeL": 0.14965986394557823,
+    "cosine": 0.5792757272720337
+  },
+  {
+    "term": "optimization",
+    "gold_definition": "Mathematical optimization (alternatively spelled optimisation) or mathematical programming is the selection of a best element, with regard to some criterion, from some set of available alternatives.",
+    "generated_definition": "In a general context, \"optimization\" refers to the process of making something as effective, perfect, or functional as possible. It often involves adjusting certain parameters or conditions to achieve the best possible outcome or performance.\n\nHowever, within specific companies or industries, \"optimization\" might have more tailored definitions, such as:\n\n1. **In Software Development or IT:** Optimization could involve refining code or algorithms to enhance speed, efficiency, or resource utilization.\n\n2. **In Digital Marketing:** Optimization might refer to improving digital ad campaigns, SEO strategies, or website performance to increase engagement or conversion rates.\n\n3. **In Supply Chain or Logistics:** This could",
+    "prompt_version": "old",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.005281914027067196,
+    "rougeL": 0.07936507936507936,
+    "cosine": 0.6779095530509949
+  },
+  {
+    "term": "feature selection",
+    "gold_definition": "In machine learning and statistics, feature selection, also known as variable selection, attribute selection or variable subset selection, is the process of selecting a subset of relevant features (variables, predictors) for use in model construction.",
+    "generated_definition": "Feature selection is a process used in machine learning and statistics to select a subset of relevant features (variables, predictors) for use in model construction. The main goal of feature selection is to improve the performance of a model by removing irrelevant or redundant data, reducing overfitting, and enhancing the interpretability of the model. It involves techniques that evaluate the importance of each feature in predicting the target variable and eliminate those that do not contribute significantly to the model's accuracy.\n\nIn the context of a specific company, feature selection might also refer to proprietary methods or algorithms developed to enhance this process, or it might be part of a larger proprietary framework for",
+    "prompt_version": "old",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.11905525370155884,
+    "rougeL": 0.24000000000000002,
+    "cosine": 0.8165067434310913
+  },
+  {
+    "term": "neural network",
+    "gold_definition": "A neural network is a network or circuit of neurons, or in a modern sense, an artificial neural network, composed of artificial neurons or nodes.",
+    "generated_definition": "A neural network is a computational model inspired by the way biological neural networks in the human brain process information. It consists of layers of interconnected nodes, or \"neurons,\" where each connection has an associated weight. Neural networks are designed to recognize patterns and make decisions based on input data. They are a key component in machine learning and artificial intelligence, used in various applications such as image recognition, natural language processing, and predictive analytics. Neural networks can be configured in different architectures, such as feedforward, convolutional, and recurrent, to suit specific tasks.",
+    "prompt_version": "old",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.04593566194873167,
+    "rougeL": 0.20338983050847456,
+    "cosine": 0.7680853605270386
+  },
+  {
+    "term": "multiagent system",
+    "gold_definition": "A multiagent system (MAS) is a paradigm in the computer sciences and related areas where a system of interest is conceived as a set of autonomous entities called agents, as well as its interaction mechanisms.",
+    "generated_definition": "A multiagent system (MAS) is a system composed of multiple interacting intelligent agents, which can be either software programs or robots. These agents are capable of autonomous action in an environment to achieve specific goals. Multiagent systems can be used to solve problems that are difficult or impossible for an individual agent or a monolithic system to solve. They are characterized by their ability to operate independently, but also to collaborate, coordinate, and negotiate with other agents to perform tasks and reach common objectives. This concept is often used in fields such as artificial intelligence, robotics, and computer science, and is particularly relevant in scenarios where distributed problem-solving is required.",
+    "prompt_version": "old",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.05747530290070604,
+    "rougeL": 0.16438356164383564,
+    "cosine": 0.9340263605117798
+  },
+  {
+    "term": "simulation",
+    "gold_definition": "A computer simulation (or \"sim\") is an attempt to model a real-life or hypothetical situation on a computer so that it can be studied to see how the system works.",
+    "generated_definition": "To accurately define the term \"simulation\" within the context of a company-specific dictionary, I would need to refer to documents or context specific to the company in question. In general, \"simulation\" refers to the process of creating a model or representation of a system or process to study its behavior under various conditions. This could involve software simulations for testing product designs, training simulations for employees, or process simulations to optimize operations. If the company has a unique application or definition for \"simulation,\" it would be important to gather that specific context to provide an accurate definition.",
+    "prompt_version": "old",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.006446469826648274,
+    "rougeL": 0.1550387596899225,
+    "cosine": 0.672946572303772
+  },
+  {
+    "term": "neural networks",
+    "gold_definition": "Artificial neural networks (ANNs), usually simply called neural networks (NNs), are computing systems vaguely inspired by the biological neural networks that constitute animal brains.",
+    "generated_definition": "\"Neural networks\" in the context of general technology and artificial intelligence refer to a series of algorithms that attempt to recognize underlying relationships in a set of data through a process that mimics the way the human brain operates. They consist of layers of interconnected nodes or \"neurons,\" which process input data and adjust their parameters (or \"weights\") based on the output error to improve accuracy over time. Neural networks are a fundamental component of machine learning and are used in various applications, including image and speech recognition, natural language processing, and more.\n\nIf there is a company-specific context or usage of \"neural networks\" that differs from the",
+    "prompt_version": "old",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.0044694029664133425,
+    "rougeL": 0.12030075187969926,
+    "cosine": 0.6762833595275879
+  },
+  {
+    "term": "artificial intelligence",
+    "gold_definition": "Artificial intelligence (AI) is intelligence demonstrated by machines, unlike the natural intelligence displayed by humans and animals, which involves consciousness and emotionality.",
+    "generated_definition": "Artificial intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think and learn like humans. These machines are designed to perform tasks that typically require human intelligence, such as visual perception, speech recognition, decision-making, and language translation. AI can be categorized into narrow AI, which is designed for a specific task, and general AI, which aims to perform any intellectual task that a human can do. AI technologies include machine learning, natural language processing, robotics, and computer vision, among others.",
+    "prompt_version": "old",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.02044724632173549,
+    "rougeL": 0.16513761467889906,
+    "cosine": 0.8327146768569946
+  },
+  {
+    "term": "ontology",
+    "gold_definition": "An ontology is a kind of dictionary that describes information in a certain domain using concepts and relationships.In computer science and information science, an ontology encompasses a representation, formal naming and definition of the categories, properties and relations between the concepts, data and entities that substantiate one, many, or all domains of discourse.",
+    "generated_definition": "In the context of a company or organization, \"ontology\" often refers to a structured framework or system that organizes information, concepts, and relationships within a specific domain or field. It involves creating a model that defines the types of entities that exist within that domain, the properties of those entities, and the relationships between them. This structured approach helps in standardizing terminology, improving data interoperability, and enhancing the ability to perform complex queries and data analysis.\n\nIn more technical settings, particularly in computer science and information systems, an ontology may be used to enable better data integration, sharing, and retrieval by providing a common understanding of the domain. It can",
+    "prompt_version": "old",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.03946191350032793,
+    "rougeL": 0.23170731707317074,
+    "cosine": 0.8684864640235901
+  },
+  {
+    "term": "wireless sensor network",
+    "gold_definition": "Wireless sensor network (WSN) refers to a group of spatially dispersed and dedicated sensors for monitoring and recording the physical conditions of the environment and organizing the collected data at a central location.",
+    "generated_definition": "A wireless sensor network (WSN) refers to a network of spatially distributed and autonomous sensors that monitor physical or environmental conditions, such as temperature, sound, vibration, pressure, motion, or pollutants. These sensors communicate wirelessly to transmit the collected data to a central location or system for analysis and processing. WSNs are often used in various applications, including environmental monitoring, industrial process monitoring, health monitoring, and smart infrastructure. They consist of sensor nodes, which are typically equipped with a radio transceiver, a microcontroller, and an energy source, usually a battery. The primary goal of a WSN is to provide robust and",
+    "prompt_version": "old",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.07318678842321738,
+    "rougeL": 0.3007518796992481,
+    "cosine": 0.9232672452926636
+  },
+  {
+    "term": "logic program",
+    "gold_definition": "Logic programming is a programming paradigm which is largely based on formal logic.",
+    "generated_definition": "A \"logic program\" in the context of the company's specific terminology could refer to a software or set of scripts designed to automate decision-making processes based on predefined rules and conditions. It involves using logical expressions to process inputs and generate outputs, often employed in areas such as automated workflows, troubleshooting, or operational processes. If the company utilizes proprietary logic programs, they might involve unique algorithms or interfaces tailored to their specific business needs. Additionally, if the term \"logic program\" is part of a product or service offered by the company, it could have particular features or integrations that are unique to their offerings.",
+    "prompt_version": "old",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.007907220582913769,
+    "rougeL": 0.10084033613445378,
+    "cosine": 0.6960880160331726
+  },
+  {
+    "term": "virtual reality",
+    "gold_definition": "Virtual reality (VR) refers to a computer-generated simulation in which a person can interact within an artificial three-dimensional environment using electronic devices, such as special goggles with a screen or gloves fitted with sensors.",
+    "generated_definition": "Virtual reality (VR) refers to a simulated experience that can be similar to or completely different from the real world. It typically involves the use of VR headsets or other equipment to generate realistic images, sounds, and other sensations that simulate a user's physical presence in a virtual environment. Users can interact with this environment in a seemingly real or physical way. VR is commonly used in gaming, training, education, and various professional applications to provide immersive experiences.",
+    "prompt_version": "old",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.07366311621770984,
+    "rougeL": 0.26086956521739135,
+    "cosine": 0.8937188982963562
+  },
+  {
+    "term": "particle swarm optimization",
+    "gold_definition": "In computational science, particle swarm optimization (PSO) is a computational method that optimizes a problem by iteratively trying to improve a candidate solution with regard to a given measure of quality.",
+    "generated_definition": "Particle Swarm Optimization (PSO) is a computational method used for optimization problems, where the goal is to find the best solution from a set of possible solutions. It is inspired by the social behavior of birds and fish. In PSO, a group of candidate solutions, called particles, move around in the search space to find the optimal solution. Each particle adjusts its position in the search space based on its own experience and that of its neighbors, following simple mathematical rules that simulate the social behavior observed in nature. PSO is commonly used in engineering, computer science, and operations research for optimizing complex functions.",
+    "prompt_version": "old",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.04448083275019899,
+    "rougeL": 0.23703703703703705,
+    "cosine": 0.9180882573127747
+  },
+  {
+    "term": "machine learning",
+    "gold_definition": "Machine learning (ML) is a subfield of soft computing within computer science that evolved from the study of pattern recognition and computational learning theory in artificial intelligence.",
+    "generated_definition": "\"Machine learning\" is a well-known term in computer science and artificial intelligence, referring to algorithms and statistical models that enable computers to perform tasks without explicit instructions, relying on patterns and inference instead. Since it's a standard term, it doesn't require a special definition for your specialized dictionary unless there's a unique context in your documents where its meaning differs or is specialized. If there are specific nuances or applications of machine learning in your company's context, please provide more details for a tailored definition.",
+    "prompt_version": "update1",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.014196247827234176,
+    "rougeL": 0.18803418803418803,
+    "cosine": 0.657230794429779
+  },
+  {
+    "term": "genetic algorithm",
+    "gold_definition": "In computer science and operations research, a genetic algorithm (GA) is a metaheuristic inspired by the process of natural selection that belongs to the larger class of evolutionary algorithms (EA).",
+    "generated_definition": "In the context of your specialized dictionary, a \"genetic algorithm\" refers to a search heuristic that is inspired by Charles Darwin's theory of natural evolution. This algorithm reflects the process of natural selection where the fittest individuals are selected for reproduction in order to produce the offspring of the next generation. In business or technology contexts, particularly within fields like artificial intelligence, optimization, and machine learning, genetic algorithms are used to generate high-quality solutions to optimization and search problems by relying on bio-inspired operators such as mutation, crossover, and selection. These algorithms are particularly useful in scenarios where the search space is large and complex, and traditional methods are insufficient",
+    "prompt_version": "update1",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.04503623066806882,
+    "rougeL": 0.22377622377622378,
+    "cosine": 0.758852481842041
+  },
+  {
+    "term": "classification",
+    "gold_definition": "A classification is a division or category in a system which divides things into groups or types.",
+    "generated_definition": "The term \"classification\" can have specific meanings depending on the context in which it is used within a company or industry:\n\n1. **Data Management and Security**: In the context of data management, \"classification\" refers to the process of organizing data into categories for its most effective and efficient use. This process helps in data security, compliance, and management, as different classes of data may require different handling protocols.\n\n2. **Machine Learning and AI**: In machine learning, \"classification\" is a type of supervised learning where the algorithm learns from the input data to categorize new data points into predefined classes. It's a crucial part of developing",
+    "prompt_version": "update1",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.009015988349807963,
+    "rougeL": 0.13008130081300814,
+    "cosine": 0.726620078086853
+  },
+  {
+    "term": "deep learning",
+    "gold_definition": "Deep learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the brain called artificial neural networks.",
+    "generated_definition": "\"Deep learning\" is a term commonly found in the field of artificial intelligence and machine learning, referring to a subset of machine learning that uses neural networks with many layers (hence \"deep\") to model complex patterns in data. It is not specific to any company or peer group unless a specific, non-standard usage is indicated within a particular context. If you have a specific context or document that suggests a unique or specialized meaning, please provide that for a more tailored definition.",
+    "prompt_version": "update1",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.024260700875464815,
+    "rougeL": 0.18691588785046728,
+    "cosine": 0.7003921866416931
+  },
+  {
+    "term": "data mining",
+    "gold_definition": "Data mining is an interdisciplinary subfield of computer science and statistics with an overall goal to extract information (with intelligent methods) from a data set and transform the information into a comprehensible structure for further use.",
+    "generated_definition": "Data mining is the process of discovering patterns, correlations, and insights from large sets of data by using various techniques from statistics, machine learning, and database systems. It involves extracting meaningful information from vast amounts of data, often to inform business decisions, identify trends, or predict future outcomes. This term is widely used across industries that deal with large datasets, such as finance, marketing, and healthcare, to improve decision-making and efficiency.",
+    "prompt_version": "update1",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.025736227805033953,
+    "rougeL": 0.2222222222222222,
+    "cosine": 0.8562126755714417
+  },
+  {
+    "term": "cloud computing",
+    "gold_definition": "Cloud computing is a general term for anything that involves delivering hosted services over the internet.",
+    "generated_definition": "\"Cloud computing\" is a widely recognized term that refers to the delivery of computing services over the internet, including storage, processing power, and software applications, on a pay-as-you-go basis. Since this is a standard term, I will not redefine it here. If you have any company-specific uses or variations of this term in your documents, please provide further context for a more tailored definition.",
+    "prompt_version": "update1",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.029293725450823226,
+    "rougeL": 0.2380952380952381,
+    "cosine": 0.9143178462982178
+  },
+  {
+    "term": "support vector machine",
+    "gold_definition": "A support vector machine (SVM) is a supervised machine learning model that uses classification algorithms for two-group classification problems.",
+    "generated_definition": "\"Support Vector Machine\" (SVM) is a well-known algorithm in machine learning and statistics, commonly used for classification and regression tasks. It is not a company or peer group-specific term, so it doesn't fit the criteria for the specialized dictionary you're developing. However, I can provide a brief explanation if needed for general understanding.\n\nIn the context of machine learning:\n\n- **Support Vector Machine (SVM):** A supervised machine learning model that seeks to find the optimal hyperplane that distinctly classifies data points in a feature space. It works by finding the hyperplane that maximizes the margin between different classes, using support vectors (data",
+    "prompt_version": "update1",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.04973440909740284,
+    "rougeL": 0.19199999999999998,
+    "cosine": 0.6681374907493591
+  },
+  {
+    "term": "clustering",
+    "gold_definition": "Clustering is the task of grouping a set of objects in such a way that objects in the same group (called a cluster) are more similar (in some sense) to each other than to those in other groups (clusters).",
+    "generated_definition": "In the context of the documents and potential specialized usage, \"clustering\" could refer to:\n\n1. **Data Science and Machine Learning**: Clustering is a technique used to group a set of objects in such a way that objects in the same group (called a cluster) are more similar to each other than to those in other groups. It’s a common method for statistical data analysis in various fields such as pattern recognition, image analysis, and bioinformatics.\n\n2. **Computing and IT**: Clustering may refer to connecting multiple computers or servers to work together as a single system to improve performance and provide redundancy. This is",
+    "prompt_version": "update1",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.25606323252334645,
+    "rougeL": 0.4615384615384615,
+    "cosine": 0.8446487784385681
+  },
+  {
+    "term": "model check",
+    "gold_definition": "In computer science, model checking or property checking is a method for checking whether a finite-state model of a system meets a given specification (also known as correctness).",
+    "generated_definition": "In the context of software engineering and computer science, \"model check\" refers to a formal verification method used to systematically explore the state space of a system model to ensure that it meets certain specifications or properties. This involves checking all possible states and transitions in a system model to verify that certain behaviors are either possible or impossible, often used to identify logical errors in system designs, such as deadlocks or unreachable states. The term is particularly relevant in areas like hardware design, software development, and systems engineering, where ensuring correctness and reliability is crucial.",
+    "prompt_version": "update1",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.02289568234333105,
+    "rougeL": 0.24,
+    "cosine": 0.8869884014129639
+  },
+  {
+    "term": "security",
+    "gold_definition": "Computer security, cybersecurity or information technology security (IT security) is the protection of computer systems and networks from information disclosure, theft of or damage to their hardware, software, or electronic data, as well as from the disruption or misdirection of the services they provide.",
+    "generated_definition": "In the context of information technology and cybersecurity, \"security\" refers to the measures and protocols implemented to protect information systems, networks, and data from unauthorized access, attacks, or damage. This can include a variety of practices such as encryption, firewalls, intrusion detection systems, and access controls. It also encompasses the policies and procedures that organizations put in place to safeguard their digital assets against threats and vulnerabilities.\n\nIn financial contexts, \"security\" can refer to a financial instrument that holds some form of monetary value, such as stocks, bonds, or options. These are traded on financial markets and can be a way for individuals or entities to invest",
+    "prompt_version": "update1",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.01122334966397018,
+    "rougeL": 0.18543046357615894,
+    "cosine": 0.7111848592758179
+  },
+  {
+    "term": "optimization",
+    "gold_definition": "Mathematical optimization (alternatively spelled optimisation) or mathematical programming is the selection of a best element, with regard to some criterion, from some set of available alternatives.",
+    "generated_definition": "In the context of business and technology, \"optimization\" refers to the process of making a system, design, or decision as effective or functional as possible. This can include improving performance, reducing costs, enhancing efficiency, or maximizing outputs. In software development, optimization might involve refining code to improve speed or reduce resource consumption. In operations, it could mean streamlining processes to increase productivity. The specific goals and methods of optimization can vary significantly depending on the industry and particular objectives of a company or project.",
+    "prompt_version": "update1",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.011036842510753852,
+    "rougeL": 0.10909090909090909,
+    "cosine": 0.6851352453231812
+  },
+  {
+    "term": "feature selection",
+    "gold_definition": "In machine learning and statistics, feature selection, also known as variable selection, attribute selection or variable subset selection, is the process of selecting a subset of relevant features (variables, predictors) for use in model construction.",
+    "generated_definition": "In the context of machine learning and data science, \"feature selection\" refers to the process of selecting a subset of relevant features (variables, predictors) for use in model construction. This process aims to improve the model's performance by removing irrelevant or redundant features, which can enhance the model's accuracy, reduce overfitting, and decrease computation time. Feature selection can be accomplished through various techniques, such as filter methods, wrapper methods, and embedded methods, each employing different strategies to evaluate and choose the most informative features.",
+    "prompt_version": "update1",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.20143678427361128,
+    "rougeL": 0.36363636363636365,
+    "cosine": 0.8170431852340698
+  },
+  {
+    "term": "neural network",
+    "gold_definition": "A neural network is a network or circuit of neurons, or in a modern sense, an artificial neural network, composed of artificial neurons or nodes.",
+    "generated_definition": "The term \"neural network\" generally refers to a computational model inspired by the way biological neural networks in the human brain process information. These models consist of interconnected groups of artificial neurons organized in layers, which can learn to perform tasks by considering examples, generally without task-specific programming. Neural networks are a key technology in machine learning and artificial intelligence, used for tasks such as image and speech recognition, language processing, and more. \n\nIf you're looking for a more context-specific definition related to a particular company or peer group's usage, please provide additional details or documents.",
+    "prompt_version": "update1",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.01883861418600776,
+    "rougeL": 0.176,
+    "cosine": 0.8399426937103271
+  },
+  {
+    "term": "multiagent system",
+    "gold_definition": "A multiagent system (MAS) is a paradigm in the computer sciences and related areas where a system of interest is conceived as a set of autonomous entities called agents, as well as its interaction mechanisms.",
+    "generated_definition": "In the context of specialized fields such as artificial intelligence, robotics, and computer science, a \"multiagent system\" refers to a system composed of multiple interacting intelligent agents. These agents can be either software-based or robotic entities that work collaboratively or competitively to achieve individual or collective goals. In such systems, each agent typically has the ability to perceive its environment, make decisions, and perform actions autonomously. The complexity of multiagent systems can vary, with interactions ranging from simple communication to complex negotiation and cooperation strategies. The study of multiagent systems involves understanding how these agents can coordinate, communicate, and solve problems that may be beyond the capabilities",
+    "prompt_version": "update1",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.010141441243577335,
+    "rougeL": 0.1678321678321678,
+    "cosine": 0.7625088691711426
+  },
+  {
+    "term": "simulation",
+    "gold_definition": "A computer simulation (or \"sim\") is an attempt to model a real-life or hypothetical situation on a computer so that it can be studied to see how the system works.",
+    "generated_definition": "In the context of specialized company or peer group-specific terminology, \"simulation\" often refers to a method or process used to imitate or replicate the operation of a real-world process or system over time. This can involve creating a digital model that mimics the behavior of a system to analyze performance, predict outcomes, or test scenarios without the risks or costs associated with real-world testing. It's commonly used in fields such as engineering, finance, healthcare, and computer science, where it's crucial to understand and optimize complex systems. The term may also have specific connotations related to the tools, software, or methodologies used within a particular organization.",
+    "prompt_version": "update1",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.005895595450520562,
+    "rougeL": 0.15602836879432624,
+    "cosine": 0.7982362508773804
+  },
+  {
+    "term": "neural networks",
+    "gold_definition": "Artificial neural networks (ANNs), usually simply called neural networks (NNs), are computing systems vaguely inspired by the biological neural networks that constitute animal brains.",
+    "generated_definition": "The term \"neural networks\" doesn't appear to be specific to a particular company or peer group within specialized documents or context you've provided. However, in general usage, \"neural networks\" refer to a series of algorithms that attempt to recognize underlying relationships in a set of data through a process that mimics the way the human brain operates. They are a key component of machine learning and artificial intelligence, typically used in tasks involving pattern recognition, classification, and prediction. If there's a specific context or unique usage within a particular organization or field, please provide more details for a more tailored definition.",
+    "prompt_version": "update1",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.004404021604068034,
+    "rougeL": 0.09375,
+    "cosine": 0.6287534236907959
+  },
+  {
+    "term": "artificial intelligence",
+    "gold_definition": "Artificial intelligence (AI) is intelligence demonstrated by machines, unlike the natural intelligence displayed by humans and animals, which involves consciousness and emotionality.",
+    "generated_definition": "\"Artificial intelligence\" (AI) is a term commonly understood and found in standard dictionaries. However, in the context of specific industries or peer groups, AI might take on specialized meanings or implications. Here are some context-specific nuances:\n\n1. **Tech Industry**: AI often refers to the development and application of algorithms and models that allow computers to perform tasks that typically require human intelligence, such as visual perception, speech recognition, decision-making, and language translation.\n\n2. **Healthcare**: In this sector, AI might refer to systems that can diagnose diseases, interpret medical imaging, or even predict patient outcomes using large datasets.\n\n3. **",
+    "prompt_version": "update1",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.008742937309928955,
+    "rougeL": 0.11475409836065574,
+    "cosine": 0.7062723636627197
+  },
+  {
+    "term": "ontology",
+    "gold_definition": "An ontology is a kind of dictionary that describes information in a certain domain using concepts and relationships.In computer science and information science, an ontology encompasses a representation, formal naming and definition of the categories, properties and relations between the concepts, data and entities that substantiate one, many, or all domains of discourse.",
+    "generated_definition": "In the context of company or peer group-specific terminology, \"ontology\" often refers to a structured framework or system that organizes information or data within a specific domain. It involves the categorization and definition of relationships between concepts, entities, and terms used within that domain, enabling more effective data management, retrieval, and sharing. Ontologies are crucial in fields like artificial intelligence, information science, and bioinformatics, where they help standardize and unify diverse data sets and terminologies to facilitate understanding and interoperability across different systems or applications.",
+    "prompt_version": "update1",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.027870772125803536,
+    "rougeL": 0.22857142857142856,
+    "cosine": 0.8842533826828003
+  },
+  {
+    "term": "wireless sensor network",
+    "gold_definition": "Wireless sensor network (WSN) refers to a group of spatially dispersed and dedicated sensors for monitoring and recording the physical conditions of the environment and organizing the collected data at a central location.",
+    "generated_definition": "The term \"wireless sensor network\" (WSN) refers to a network composed of spatially distributed autonomous sensors that monitor physical or environmental conditions, such as temperature, sound, vibration, pressure, motion, or pollutants, and cooperatively pass their data through the network to a main location or sink. These networks are typically used in scenarios where wired networking is impractical, such as remote or hard-to-access environments. WSNs are characterized by their ability to function in dynamic and often challenging conditions, requiring robust communication protocols and energy-efficient operation due to the limited power resources of the sensor nodes.",
+    "prompt_version": "update1",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.04014009488733026,
+    "rougeL": 0.2615384615384615,
+    "cosine": 0.9078490734100342
+  },
+  {
+    "term": "logic program",
+    "gold_definition": "Logic programming is a programming paradigm which is largely based on formal logic.",
+    "generated_definition": "In the context of computer science and programming, a \"logic program\" refers to a type of computer program that is constructed using formal logic. Logic programs typically consist of a set of sentences in logical form, expressing facts and rules about some problem domain. They are executed using a process known as logical inference, which derives conclusions from the known facts and rules. The most common language associated with logic programming is Prolog, which is used extensively in fields such as artificial intelligence and computational linguistics. Logic programming emphasizes declarative knowledge representation, where the logic of the computation is expressed without describing its control flow.",
+    "prompt_version": "update1",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.013577332603917419,
+    "rougeL": 0.13559322033898308,
+    "cosine": 0.8470841646194458
+  },
+  {
+    "term": "virtual reality",
+    "gold_definition": "Virtual reality (VR) refers to a computer-generated simulation in which a person can interact within an artificial three-dimensional environment using electronic devices, such as special goggles with a screen or gloves fitted with sensors.",
+    "generated_definition": "The term \"virtual reality\" is a widely recognized concept and can typically be found in standard dictionaries. However, if you're looking for a specialized definition relevant to a particular industry or context, please provide additional context or documents that might contain unique uses or interpretations of \"virtual reality\" specific to your needs.",
+    "prompt_version": "update1",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.0170293871631749,
+    "rougeL": 0.1797752808988764,
+    "cosine": 0.7457249760627747
+  },
+  {
+    "term": "particle swarm optimization",
+    "gold_definition": "In computational science, particle swarm optimization (PSO) is a computational method that optimizes a problem by iteratively trying to improve a candidate solution with regard to a given measure of quality.",
+    "generated_definition": "Particle Swarm Optimization (PSO) is a computational method used for optimizing a problem by iteratively improving a candidate solution with regard to a given measure of quality. It is inspired by the social behavior of birds and fish and involves a number of simple agents, referred to as particles, which move through the problem space. Each particle adjusts its position based on its own experience and the experience of neighboring particles, effectively sharing information to find an optimal or near-optimal solution to the problem. PSO is commonly used in engineering, computer science, and operations research for solving complex optimization problems.",
+    "prompt_version": "update1",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.16074481376537286,
+    "rougeL": 0.3787878787878788,
+    "cosine": 0.9311829209327698
+  },
+  {
+    "term": "machine learning",
+    "gold_definition": "Machine learning (ML) is a subfield of soft computing within computer science that evolved from the study of pattern recognition and computational learning theory in artificial intelligence.",
+    "generated_definition": "\"Machine learning\" is a well-known concept in the field of artificial intelligence and computer science. It refers to the study and development of algorithms that allow computers to learn from and make predictions or decisions based on data. The focus is on enabling systems to improve their performance on tasks over time without being explicitly programmed to do so. Given its widespread recognition and standard definition, it does not require a specialized or context-specific definition from the provided documents. However, if within a specific company or peer group context it has a unique application or connotation, that would require documentation-specific details to provide a tailored definition.",
+    "prompt_version": "update2",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.015033192904105177,
+    "rougeL": 0.17647058823529413,
+    "cosine": 0.6774947047233582
+  },
+  {
+    "term": "genetic algorithm",
+    "gold_definition": "In computer science and operations research, a genetic algorithm (GA) is a metaheuristic inspired by the process of natural selection that belongs to the larger class of evolutionary algorithms (EA).",
+    "generated_definition": "In the context of the documents and specialized fields such as computer science or operations research, a \"genetic algorithm\" refers to a search heuristic that is inspired by Charles Darwin's theory of natural evolution. This algorithm reflects the process of natural selection where the fittest individuals are selected for reproduction in order to produce offspring of the next generation. The process involves selection, crossover, and mutation to generate new solutions over successive generations, with the aim of finding optimal or near-optimal solutions to complex problems. Genetic algorithms are often used in optimization and machine learning tasks where traditional methods are not feasible.",
+    "prompt_version": "update2",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.060955300788216676,
+    "rougeL": 0.29850746268656714,
+    "cosine": 0.7751165628433228
+  },
+  {
+    "term": "classification",
+    "gold_definition": "A classification is a division or category in a system which divides things into groups or types.",
+    "generated_definition": "In the context of specialized or peer group-specific terminology, \"classification\" often refers to the process of organizing or categorizing items, data, or information into predefined groups or categories based on shared characteristics or criteria. This can be particularly relevant in fields such as machine learning, data science, or library science, where classification involves assigning labels to instances or data points according to a trained model or set of rules. The exact meaning and application can vary widely depending on the specific domain or industry.",
+    "prompt_version": "update2",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.011036842510753852,
+    "rougeL": 0.1176470588235294,
+    "cosine": 0.8446734547615051
+  },
+  {
+    "term": "deep learning",
+    "gold_definition": "Deep learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the brain called artificial neural networks.",
+    "generated_definition": "\"Deep learning\" is a subset of machine learning characterized by the use of neural networks with multiple layers (hence \"deep\") to model complex patterns in data. It is particularly effective in tasks such as image and speech recognition, natural language processing, and autonomous systems. Deep learning models are trained using large datasets and leverage techniques such as backpropagation and gradient descent to minimize error rates. Unlike traditional machine learning, deep learning can automatically extract features from raw data, reducing the need for manual feature engineering. This term is widely used in the field of artificial intelligence and data science.",
+    "prompt_version": "update2",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.024852121446329763,
+    "rougeL": 0.1951219512195122,
+    "cosine": 0.7943023443222046
+  },
+  {
+    "term": "data mining",
+    "gold_definition": "Data mining is an interdisciplinary subfield of computer science and statistics with an overall goal to extract information (with intelligent methods) from a data set and transform the information into a comprehensible structure for further use.",
+    "generated_definition": "The term \"data mining\" typically refers to the process of discovering patterns, correlations, or useful information from large sets of data using statistical, machine learning, or database systems. However, in specific contexts or industries, the term might have more nuanced meanings or applications. If \"data mining\" is used in a unique way within a particular company or group, information from the provided documents would be needed to give a definition that reflects that specific usage. If you have such documents or context, please share them for a more tailored definition.",
+    "prompt_version": "update2",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.006722993213338379,
+    "rougeL": 0.15873015873015872,
+    "cosine": 0.7911753058433533
+  },
+  {
+    "term": "cloud computing",
+    "gold_definition": "Cloud computing is a general term for anything that involves delivering hosted services over the internet.",
+    "generated_definition": "\"Cloud computing\" refers to the delivery of computing services over the internet, often referred to as \"the cloud.\" These services include servers, storage, databases, networking, software, analytics, and intelligence. This allows for flexible resources, faster innovation, and economies of scale. Users typically pay only for the services they use, which helps reduce operating costs, run infrastructure more efficiently, and scale as business needs change.",
+    "prompt_version": "update2",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.022852497277250385,
+    "rougeL": 0.15,
+    "cosine": 0.9040194749832153
+  },
+  {
+    "term": "support vector machine",
+    "gold_definition": "A support vector machine (SVM) is a supervised machine learning model that uses classification algorithms for two-group classification problems.",
+    "generated_definition": "The term \"support vector machine\" (SVM) generally refers to a supervised machine learning algorithm used for classification and regression tasks. It works by finding the hyperplane that best separates the data into different classes. This term is not specific to a particular company or peer group, so it would not be included in a specialized dictionary focusing on unique or context-specific terminology.",
+    "prompt_version": "update2",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.04601046431380968,
+    "rougeL": 0.2650602409638554,
+    "cosine": 0.8270725011825562
+  },
+  {
+    "term": "clustering",
+    "gold_definition": "Clustering is the task of grouping a set of objects in such a way that objects in the same group (called a cluster) are more similar (in some sense) to each other than to those in other groups (clusters).",
+    "generated_definition": "In the context of data analysis and machine learning, \"clustering\" refers to the process of grouping a set of objects or data points in such a way that those in the same group (or cluster) are more similar to each other than to those in other groups. It is a common technique used in exploratory data analysis to discover natural groupings within data. Clustering helps in identifying patterns, reducing the dimensionality of data, and simplifying the representation of complex datasets. Methods of clustering include k-means clustering, hierarchical clustering, and DBSCAN, among others. Each method has its own way of defining and identifying clusters based on the underlying",
+    "prompt_version": "update2",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.18307353403073923,
+    "rougeL": 0.42176870748299317,
+    "cosine": 0.8469119071960449
+  },
+  {
+    "term": "model check",
+    "gold_definition": "In computer science, model checking or property checking is a method for checking whether a finite-state model of a system meets a given specification (also known as correctness).",
+    "generated_definition": "In the context of the documents you provided, \"model check\" could refer to a process within a specific field such as software engineering, verification, or data modeling. If it relates to a technical or industry-specific process, \"model check\" usually involves verifying that a model (e.g., a software model, data model, or system model) meets certain specifications or requirements. It may involve automated tools or manual review to ensure correctness, performance, or compliance with standards.\n\nIf you have a specific context or industry in which this term is used, please provide additional information for a more precise definition.",
+    "prompt_version": "update2",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.0065767673748222495,
+    "rougeL": 0.20312500000000003,
+    "cosine": 0.8258287906646729
+  },
+  {
+    "term": "security",
+    "gold_definition": "Computer security, cybersecurity or information technology security (IT security) is the protection of computer systems and networks from information disclosure, theft of or damage to their hardware, software, or electronic data, as well as from the disruption or misdirection of the services they provide.",
+    "generated_definition": "The term \"security\" in a general context refers to measures taken to protect against theft, damage, or unauthorized access. However, in a specialized or company-specific context, \"security\" can have more nuanced meanings:\n\n1. **Information Security**: This refers to the protection of digital data from unauthorized access, corruption, or theft. It involves implementing measures such as encryption, firewalls, and access controls to safeguard sensitive information.\n\n2. **Physical Security**: This involves protecting physical assets, personnel, and facilities from threats like theft, vandalism, or terrorism. It includes the use of security personnel, surveillance systems, and access control",
+    "prompt_version": "update2",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.020773660857847553,
+    "rougeL": 0.1870503597122302,
+    "cosine": 0.7177363634109497
+  },
+  {
+    "term": "optimization",
+    "gold_definition": "Mathematical optimization (alternatively spelled optimisation) or mathematical programming is the selection of a best element, with regard to some criterion, from some set of available alternatives.",
+    "generated_definition": "The term \"optimization\" generally refers to the process of making something as effective or functional as possible. However, in a specialized context, particularly in fields like business, engineering, or computer science, \"optimization\" can have more specific meanings.\n\nIn business or operations management, \"optimization\" might refer to the process of improving efficiency, reducing costs, or maximizing outputs given certain constraints and resources. This could involve streamlining processes, improving supply chain logistics, or enhancing productivity through strategic adjustments.\n\nIn engineering, especially in fields like mechanical or software engineering, \"optimization\" often refers to the process of adjusting design parameters to achieve the best performance according to",
+    "prompt_version": "update2",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.005352794601447878,
+    "rougeL": 0.09302325581395349,
+    "cosine": 0.7145277261734009
+  },
+  {
+    "term": "feature selection",
+    "gold_definition": "In machine learning and statistics, feature selection, also known as variable selection, attribute selection or variable subset selection, is the process of selecting a subset of relevant features (variables, predictors) for use in model construction.",
+    "generated_definition": "In the context of machine learning and data analysis, \"feature selection\" refers to the process of identifying and selecting a subset of relevant features (variables, predictors) for use in model construction. It involves choosing the most informative variables that contribute to the predictive power of the model, thereby improving model performance, reducing overfitting, and decreasing training time. Feature selection can be achieved through various methods, including filter methods, wrapper methods, and embedded methods, each leveraging different criteria and algorithms to evaluate the importance of features. This term is particularly relevant in fields dealing with large datasets and complex models, such as data science, bioinformatics, and financial",
+    "prompt_version": "update2",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.1415325595199333,
+    "rougeL": 0.31205673758865254,
+    "cosine": 0.8083163499832153
+  },
+  {
+    "term": "neural network",
+    "gold_definition": "A neural network is a network or circuit of neurons, or in a modern sense, an artificial neural network, composed of artificial neurons or nodes.",
+    "generated_definition": "The term \"neural network\" generally refers to a computational model inspired by the way biological neural networks in the human brain process information. It consists of a series of algorithms that attempt to recognize underlying relationships in a set of data through a process that mimics the way the human brain operates. Neural networks are used in various applications such as image and speech recognition, and they form the foundation of deep learning techniques. If you have specific context or documents that might redefine or provide a specialized meaning for neural networks, please provide them for a more precise definition.",
+    "prompt_version": "update2",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.01003500791772523,
+    "rougeL": 0.176,
+    "cosine": 0.8421184420585632
+  },
+  {
+    "term": "multiagent system",
+    "gold_definition": "A multiagent system (MAS) is a paradigm in the computer sciences and related areas where a system of interest is conceived as a set of autonomous entities called agents, as well as its interaction mechanisms.",
+    "generated_definition": "In the context of specialized fields like artificial intelligence and systems engineering, a \"multiagent system\" refers to a system composed of multiple interacting agents. Agents are autonomous entities that have the ability to perceive their environment, make decisions, and act upon those decisions to achieve specific goals. These systems are used to solve problems that are too large or complex for a single agent to handle effectively, and they often involve coordination, cooperation, or competition among the agents. Multiagent systems are used in various applications, including robotics, distributed control systems, and simulations.",
+    "prompt_version": "update2",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.01353280623472856,
+    "rougeL": 0.15748031496062992,
+    "cosine": 0.8010129332542419
+  },
+  {
+    "term": "simulation",
+    "gold_definition": "A computer simulation (or \"sim\") is an attempt to model a real-life or hypothetical situation on a computer so that it can be studied to see how the system works.",
+    "generated_definition": "In a specialized context, particularly within industries such as engineering, manufacturing, or computer science, \"simulation\" refers to the process of creating a virtual model of a system or process to test and analyze its behavior under different conditions without the need for physical prototypes. This can involve the use of sophisticated software tools to mimic real-world operations, allowing for experiments, optimizations, and predictions about system performance and outcomes. The term might also encompass specific methodologies or technologies used to achieve these virtual representations, such as finite element analysis (FEA) or computational fluid dynamics (CFD). The definition can vary depending on the company or industry, highlighting particular software",
+    "prompt_version": "update2",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.005801395971704695,
+    "rougeL": 0.15827338129496402,
+    "cosine": 0.7327234745025635
+  },
+  {
+    "term": "neural networks",
+    "gold_definition": "Artificial neural networks (ANNs), usually simply called neural networks (NNs), are computing systems vaguely inspired by the biological neural networks that constitute animal brains.",
+    "generated_definition": "\"Neural networks\" typically refers to a class of models in machine learning and artificial intelligence designed to recognize patterns and interpret data through a process that mimics the human brain's network of neurons. However, if you are referring to this term within a specific industry or company context, additional documents or context would be necessary to identify any specialized meanings or usages that differ from the standard definition. If there are specific nuances or proprietary applications of neural networks in your context, please provide more detail for a more tailored definition.",
+    "prompt_version": "update2",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.009436816440804945,
+    "rougeL": 0.1206896551724138,
+    "cosine": 0.6054071187973022
+  },
+  {
+    "term": "artificial intelligence",
+    "gold_definition": "Artificial intelligence (AI) is intelligence demonstrated by machines, unlike the natural intelligence displayed by humans and animals, which involves consciousness and emotionality.",
+    "generated_definition": "\"Artificial intelligence\" is a common term referring to the simulation of human intelligence in machines that are programmed to think and learn. AI encompasses a wide range of technologies, including machine learning, natural language processing, and robotics, among others. This term is well-documented in general dictionaries, so unless there is a specific context or unique usage within a particular company or group not covered by standard definitions, it is not necessary to redefine it here. If you have a specific context or document where \"artificial intelligence\" is used differently, please provide that for a more tailored definition.",
+    "prompt_version": "update2",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.005633796462139284,
+    "rougeL": 0.11666666666666664,
+    "cosine": 0.7593631148338318
+  },
+  {
+    "term": "ontology",
+    "gold_definition": "An ontology is a kind of dictionary that describes information in a certain domain using concepts and relationships.In computer science and information science, an ontology encompasses a representation, formal naming and definition of the categories, properties and relations between the concepts, data and entities that substantiate one, many, or all domains of discourse.",
+    "generated_definition": "In the context of specialized fields like computer science, information science, and artificial intelligence, \"ontology\" refers to a structured framework or system that represents knowledge as a set of concepts within a domain, and the relationships between those concepts. Ontologies are used to model domain knowledge, enabling better organization, sharing, and analysis of data. They typically involve categorizing entities, defining properties and relationships, and establishing rules for how those entities can interact. This structured representation facilitates interoperability between systems and improves the ability to process and understand complex information.",
+    "prompt_version": "update2",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.016769363368267096,
+    "rougeL": 0.20979020979020982,
+    "cosine": 0.8822754621505737
+  },
+  {
+    "term": "wireless sensor network",
+    "gold_definition": "Wireless sensor network (WSN) refers to a group of spatially dispersed and dedicated sensors for monitoring and recording the physical conditions of the environment and organizing the collected data at a central location.",
+    "generated_definition": "The term \"wireless sensor network\" (WSN) refers to a network of spatially distributed autonomous sensors that monitor and record environmental conditions, such as temperature, humidity, pressure, or motion, and communicate this data wirelessly to a central location or processing system. These networks are often used in various applications, including environmental monitoring, industrial automation, healthcare, and smart homes. A WSN typically consists of multiple sensor nodes, each equipped with a wireless communication module, that work together to gather and transmit data through a wireless communication protocol. The nodes can be battery-powered or energy-harvesting, and the network is designed to be scalable",
+    "prompt_version": "update2",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.036660972328073596,
+    "rougeL": 0.2814814814814815,
+    "cosine": 0.8948783874511719
+  },
+  {
+    "term": "logic program",
+    "gold_definition": "Logic programming is a programming paradigm which is largely based on formal logic.",
+    "generated_definition": "In the context of computer science and programming, a \"logic program\" refers to a type of program written in a logic programming language, such as Prolog. Logic programming is a paradigm that is based on formal logic. A logic program consists of a set of sentences in logical form, expressing facts and rules about some problem domain. The execution of a logic program involves querying the logic statements to infer conclusions or solve problems based on the given facts and rules. It is particularly used in fields like artificial intelligence and computational linguistics where symbolic reasoning and knowledge representation are important.",
+    "prompt_version": "update2",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.0481795589051263,
+    "rougeL": 0.1754385964912281,
+    "cosine": 0.8482095003128052
+  },
+  {
+    "term": "virtual reality",
+    "gold_definition": "Virtual reality (VR) refers to a computer-generated simulation in which a person can interact within an artificial three-dimensional environment using electronic devices, such as special goggles with a screen or gloves fitted with sensors.",
+    "generated_definition": "Virtual reality (VR) is a computer-generated simulation that creates an immersive experience, allowing users to interact with a three-dimensional environment using specialized equipment such as VR headsets and controllers. Unlike traditional screens, VR provides a sense of presence in a virtual world, often used for gaming, training simulations, and other interactive applications. This definition is generally understood and does not vary significantly across different contexts, so it can be found in standard dictionaries.",
+    "prompt_version": "update2",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.052313553888292834,
+    "rougeL": 0.2702702702702703,
+    "cosine": 0.9192706346511841
+  },
+  {
+    "term": "particle swarm optimization",
+    "gold_definition": "In computational science, particle swarm optimization (PSO) is a computational method that optimizes a problem by iteratively trying to improve a candidate solution with regard to a given measure of quality.",
+    "generated_definition": "Particle Swarm Optimization (PSO) is a computational method used for solving optimization problems by simulating the social behavior of birds or fish. It involves a group of candidate solutions, referred to as particles, which move around in the search space. Each particle adjusts its position based on its own experience and the experience of neighboring particles, with the aim of finding optimal or near-optimal solutions. This method is particularly useful in fields such as machine learning, engineering, and operations research for solving complex problems where traditional optimization methods may be inefficient.",
+    "prompt_version": "update2",
+    "model_name": "openai:gpt-4o",
+    "bleu": 0.046962315661750485,
+    "rougeL": 0.2601626016260163,
+    "cosine": 0.880912184715271
+  }
+]
